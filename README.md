@@ -1,2 +1,2 @@
-# Cousera_WD4E
-Python-for-Everybody-Coursera
+# Web-Design-for-Everybody-Coursera
+Coursera courses for the Web Design for Everybody Specialization by the University of Michigan.
