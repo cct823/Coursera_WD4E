@@ -3,10 +3,14 @@ Coursera courses for the Web Design for Everybody Specialization by the Universi
 
 **useful website**
 
-1. HTML5 Cheat Sheet   
+1. HTML5 Cheat Sheet: 
+https://www.wpkube.com/html5-cheat-sheet/
 
-`https://www.wpkube.com/html5-cheat-sheet/`
+2. W3C Validation Sources: 
+https://validator.w3.org/#validate_by_input
 
-2. W3C validation sources
+3. Building Your First Web Page: 
+https://learn.shayhowe.com/html-css/building-your-first-web-page/
 
-`https://validator.w3.org/#validate_by_input`
+4. CSS Zen Garden: 
+http://www.csszengarden.com/
